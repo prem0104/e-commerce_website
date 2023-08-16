@@ -1,0 +1,7 @@
+@media screen and (max-width: 768px) {
+    .icon a i{
+        font-size: 20px;
+        margin-right:30px;
+      }
+    
+}
